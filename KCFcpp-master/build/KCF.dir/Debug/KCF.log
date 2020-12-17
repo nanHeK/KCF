@@ -1,0 +1,14 @@
+﻿  readVideo.cpp
+e:\0a_hk\download\kcfcpp-master\kcfcpp-master\build\readvideo.cpp(53): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+e:\0a_hk\download\kcfcpp-master\kcfcpp-master\build\readvideo.cpp(121): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\0a_hk\download\kcfcpp-master\kcfcpp-master\build\readvideo.cpp(122): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\0a_hk\download\kcfcpp-master\kcfcpp-master\build\readvideo.cpp(134): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  KCF.vcxproj -> E:\0A_hk\download\KCFcpp-master\KCFcpp-master\build\Debug\KCF.exe
